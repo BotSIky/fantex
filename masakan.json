@@ -1,0 +1,502 @@
+[
+  {
+    "index": 0,
+    "soal": "Makanan khas Yogyakarta yang terbuat dari nangka muda yang dimasak dengan santan dan gula merah adalah...",
+    "jawaban": "Gudeg"
+  },
+  {
+    "index": 1,
+    "soal": "Soto Betawi terkenal dengan penggunaan ... sebagai salah satu bahan utamanya.",
+    "jawaban": "Susu"
+  },
+  {
+    "index": 2,
+    "soal": "Rendang berasal dari daerah...",
+    "jawaban": "SumateraBarat"
+  },
+  {
+    "index": 3,
+    "soal": "Makanan khas Palembang yang terbuat dari ikan dan sagu adalah...",
+    "jawaban": "Pempek"
+  },
+  {
+    "index": 4,
+    "soal": "Rawon, sup daging berwarna hitam, berasal dari...",
+    "jawaban": "JawaTimur"
+  },
+  {
+    "index": 5,
+    "soal": "Sate Lilit adalah sate khas dari daerah...",
+    "jawaban": "Bali"
+  },
+  {
+    "index": 6,
+    "soal": "Gado-gado menggunakan saus yang terbuat dari...",
+    "jawaban": "Kacang"
+  },
+  {
+    "index": 7,
+    "soal": "Kerak Telor adalah makanan khas Jakarta yang terbuat dari...",
+    "jawaban": "BerasKetandanTelur"
+  },
+  {
+    "index": 8,
+    "soal": "Tumpeng biasanya disajikan pada acara...",
+    "jawaban": "Syukuran"
+  },
+  {
+    "index": 9,
+    "soal": "Pecel adalah makanan yang terdiri dari sayuran yang disiram dengan saus...",
+    "jawaban": "Kacang"
+  },
+  {
+    "index": 10,
+    "soal": "Babi Guling adalah masakan khas dari daerah...",
+    "jawaban": "Bali"
+  },
+  {
+    "index": 11,
+    "soal": "Mie Aceh terkenal dengan penggunaan bumbu...",
+    "jawaban": "Kari"
+  },
+  {
+    "index": 12,
+    "soal": "Papeda adalah makanan pokok masyarakat...",
+    "jawaban": "Papua"
+  },
+  {
+    "index": 13,
+    "soal": "Nasi Jamblang adalah nasi khas Cirebon yang dibungkus dengan daun...",
+    "jawaban": "Jati"
+  },
+  {
+    "index": 14,
+    "soal": "Gulai Belacan adalah gulai khas dari daerah...",
+    "jawaban": "Riau"
+  },
+  {
+    "index": 15,
+    "soal": "Tinutuan atau Bubur Manado adalah bubur khas dari...",
+    "jawaban": "SulawesiUtara"
+  },
+  {
+    "index": 16,
+    "soal": "Otak-otak biasanya terbuat dari...",
+    "jawaban": "Ikan"
+  },
+  {
+    "index": 17,
+    "soal": "Ayam Taliwang berasal dari daerah...",
+    "jawaban": "Lombok"
+  },
+  {
+    "index": 18,
+    "soal": "Sop Konro adalah sop iga sapi khas dari...",
+    "jawaban": "Makassar"
+  },
+  {
+    "index": 19,
+    "soal": "Binte Biluhuta adalah sup jagung khas dari...",
+    "jawaban": "Gorontalo"
+  },
+  {
+    "index": 20,
+    "soal": "Kapu Ubi Ungu adalah makanan khas dari...",
+    "jawaban": "Maluku"
+  },
+  {
+    "index": 21,
+    "soal": "Juhu Singkah adalah makanan khas suku Dayak yang terbuat dari...",
+    "jawaban": "RotanMuda"
+  },
+  {
+    "index": 22,
+    "soal": "Sayur Babanci adalah sayur khas Betawi yang kini langka dan menggunakan kelapa...",
+    "jawaban": "Sangrai"
+  },
+  {
+    "index": 23,
+    "soal": "Asida adalah bubur manis yang berasal dari daerah...",
+    "jawaban": "Maluku"
+  },
+  {
+    "index": 24,
+    "soal": "Sambal Roa adalah sambal khas dari...",
+    "jawaban": "Manado"
+  },
+  {
+    "index": 25,
+    "soal": "Nasi Liwet Solo dimasak dengan santan dan disajikan dengan...",
+    "jawaban": "SayurLabuSiam"
+  },
+  {
+    "index": 26,
+    "soal": "Es Bir Kocok adalah minuman khas dari...",
+    "jawaban": "Bogor"
+  },
+  {
+    "index": 27,
+    "soal": "Kue Lumpur Surga adalah kue tradisional dari...",
+    "jawaban": "Banjarmasin"
+  },
+  {
+    "index": 28,
+    "soal": "Sate Bulayak adalah sate khas Lombok yang disajikan dengan lontong yang disebut...",
+    "jawaban": "Bulayak"
+  },
+  {
+    "index": 29,
+    "soal": "Gulai Ikan Patin adalah masakan khas dari...",
+    "jawaban": "Jambi"
+  },
+  {
+    "index": 30,
+    "soal": "Mie Caluk adalah mie khas dari...",
+    "jawaban": "Aceh"
+  },
+  {
+    "index": 31,
+    "soal": "Nasi Kucing adalah nasi porsi kecil yang biasa dijual di...",
+    "jawaban": "Angkringan"
+  },
+  {
+    "index": 32,
+    "soal": "Kaledo adalah makanan khas Palu yang berupa...",
+    "jawaban": "KakiLembu"
+  },
+  {
+    "index": 33,
+    "soal": "Es Palu Butung adalah es pisang ijo khas dari...",
+    "jawaban": "Makassar"
+  },
+  {
+    "index": 34,
+    "soal": "Mie Gomak adalah mie lidi khas dari...",
+    "jawaban": "SumateraUtara"
+  },
+  {
+    "index": 35,
+    "soal": "Buntil adalah masakan tradisional yang terbuat dari daun...",
+    "jawaban": "Pepaya"
+  },
+  {
+    "index": 36,
+    "soal": "Sate Taichan terkenal dengan rasanya yang...",
+    "jawaban": "AsamPedas"
+  },
+  {
+    "index": 37,
+    "soal": "Nasi Bogana adalah nasi khas Tegal yang dilengkapi dengan...",
+    "jawaban": "AyamSuwir"
+  },
+  {
+    "index": 38,
+    "soal": "Kue Carabikang adalah kue tradisional yang berbentuk...",
+    "jawaban": "Bunga"
+  },
+  {
+    "index": 39,
+    "soal": "Lodho adalah ayam yang dimasak dengan santan kental khas...",
+    "jawaban": "Tulungagung"
+  },
+  {
+    "index": 40,
+    "soal": "Laksa Bogor menggunakan bahan utama...",
+    "jawaban": "Oncom"
+  },
+    {
+    "index": 41,
+    "soal": "Kue Dange adalah kue khas dari...",
+    "jawaban": "Purwokerto"
+  },
+  {
+    "index": 42,
+    "soal": "Sayur Besan adalah sayur khas Betawi yang biasa disajikan saat...",
+    "jawaban": "Pernikahan"
+  },
+  {
+    "index": 43,
+    "soal": "Tahu Campur adalah makanan khas Lamongan yang berisi...",
+    "jawaban": "PetisUdang"
+  },
+  {
+    "index": 44,
+    "soal": "Sop Saudara adalah sop daging sapi khas...",
+    "jawaban": "Makassar"
+  },
+  {
+    "index": 45,
+    "soal": "Kue Apem adalah kue tradisional yang sering disajikan saat acara...",
+    "jawaban": "Selamatan"
+  },
+  {
+    "index": 46,
+    "soal": "Mie Kocok Bandung menggunakan kikil...",
+    "jawaban": "Sapi"
+  },
+  {
+    "index": 47,
+    "soal": "Nasi Timbel biasanya dibungkus dengan daun...",
+    "jawaban": "Pisang"
+  },
+  {
+    "index": 48,
+    "soal": "Sate Buntel adalah sate daging cincang yang dibungkus dengan lemak...",
+    "jawaban": "Kambing"
+  },
+  {
+    "index": 49,
+    "soal": "Brekecek adalah makanan khas Cilacap yang berbahan dasar...",
+    "jawaban": "KepalaIkan"
+  },
+  {
+    "index": 50,
+    "soal": "Kue Leker adalah kue tipis yang biasanya diisi dengan...",
+    "jawaban": "CokelatdanKeju"
+  },
+   {
+    "index": 51,
+    "soal": "Gulai Balak adalah gulai khas dari...",
+    "jawaban": "Lampung"
+  },
+  {
+    "index": 52,
+    "soal": "Bongko Mento adalah makanan khas Jepara yang terbuat dari...",
+    "jawaban": "DagingAyam"
+  },
+  {
+    "index": 53,
+    "soal": "Soto Banjar menggunakan susu sebagai salah satu bahan utama...",
+    "jawaban": "Susu"
+  },
+  {
+    "index": 54,
+    "soal": "Coto Makassar menggunakan jeroan...",
+    "jawaban": "Sapi"
+  },
+  {
+    "index": 55,
+    "soal": "Sayur asem memiliki rasa...",
+    "jawaban": "AsamSegar"
+  },
+  {
+    "index": 56,
+    "soal": "Sate Madura biasanya disajikan dengan saus...",
+    "jawaban": "Kacang"
+  },
+  {
+    "index": 57,
+    "soal": "Nasi Uduk dimasak dengan...",
+    "jawaban": "Santan"
+  },
+  {
+    "index": 58,
+    "soal": "Tahu Sumedang terkenal karena...",
+    "jawaban": "Kopong"
+  },
+  {
+    "index": 59,
+    "soal": "Combro terbuat dari parutan singkong yang diisi dengan...",
+    "jawaban": "Oncom"
+  },
+  {
+    "index": 60,
+    "soal": "Misro terbuat dari parutan singkong yang diisi dengan...",
+    "jawaban": "GulaMerah"
+  },
+  {
+    "index": 61,
+    "soal": "Kue Cubit adalah kue yang sering dijual di...",
+    "jawaban": "Sekolah"
+  },
+  {
+    "index": 62,
+    "soal": "Martabak Manis sering disebut juga...",
+    "jawaban": "TerangBulan"
+  },
+  {
+    "index": 63,
+    "soal": "Martabak Telur biasanya disajikan dengan acar...",
+    "jawaban": "Bawang"
+  },
+  {
+    "index": 64,
+    "soal": "Klepon biasanya berwarna hijau karena menggunakan daun...",
+    "jawaban": "Pandan"
+  },
+  {
+    "index": 65,
+    "soal": "Onde-onde biasanya ditaburi dengan biji...",
+    "jawaban": "Wijen"
+  },
+  {
+    "index": 66,
+    "soal": "Getuk adalah makanan yang terbuat dari...",
+    "jawaban": "Singkong"
+  },
+  {
+    "index": 67,
+    "soal": "Jenang Kudus terbuat dari...",
+    "jawaban": "TepungBerasKetandanGulaMerah"
+  },
+  {
+    "index": 68,
+    "soal": "Wingko Babat adalah kue khas dari...",
+    "jawaban": "Semarang"
+  },
+  {
+    "index": 69,
+    "soal": "Serabi biasanya disajikan dengan kuah...",
+    "jawaban": "Kinca"
+  },
+  {
+    "index": 70,
+    "soal": "Putu adalah kue yang dikukus dalam bambu dan diisi dengan...",
+    "jawaban": "GulaMerah"
+  },
+   {
+    "index": 71,
+    "soal": "Kue Dadar Gulung biasanya diisi dengan...",
+    "jawaban": "KelapaParutdanGulaMerah"
+  },
+  {
+    "index": 72,
+    "soal": "Kue Bugis terbuat dari tepung...",
+    "jawaban": "Ketan"
+  },
+  {
+    "index": 73,
+    "soal": "Kue Ku biasanya berbentuk seperti...",
+    "jawaban": "Kura-kura"
+  },
+  {
+    "index": 74,
+    "soal": "Kue Cucur memiliki bentuk...",
+    "jawaban": "BundarBerenda"
+  },
+  {
+    "index": 75,
+    "soal": "Kue Nagasari biasanya berisi...",
+    "jawaban": "Pisang"
+  },
+  {
+    "index": 76,
+    "soal": "Kue Mendut dibungkus dengan daun...",
+    "jawaban": "DaunSuji"
+  },
+  {
+    "index": 77,
+    "soal": "Kue Lapis Legit dibuat dengan cara...",
+    "jawaban": "Dilapis"
+  },
+  {
+    "index": 78,
+    "soal": "Bika Ambon memiliki tekstur...",
+    "jawaban": "Berongga"
+  },
+  {
+    "index": 79,
+    "soal": "Kue Talam memiliki dua lapisan yang berbeda rasa, yaitu...",
+    "jawaban": "ManisdanAsin"
+  },
+  {
+    "index": 80,
+    "soal": "Kue Lumpur terbuat dari kentang atau...",
+    "jawaban": "LabuKuning"
+  },
+  {
+    "index": 81,
+    "soal": "Gudeg Mercon adalah gudeg yang berisi...",
+    "jawaban": "Cabai"
+  },
+  {
+    "index": 82,
+    "soal": "Oseng Mercon terbuat dari kulit...",
+    "jawaban": "Sapi"
+  },
+  {
+    "index": 83,
+    "soal": "Tempe Mendoan adalah tempe yang digoreng...",
+    "jawaban": "SetengahMatang"
+  },
+  {
+    "index": 84,
+    "soal": "Tahu Petis adalah tahu goreng yang disajikan dengan petis...",
+    "jawaban": "Udang"
+  },
+  {
+    "index": 85,
+    "soal": "Soto Kudus biasanya disajikan dalam mangkuk...",
+    "jawaban": "Kecil"
+  },
+  {
+    "index": 86,
+    "soal": "Soto Lamongan menggunakan koya yang terbuat dari...",
+    "jawaban": "KerupukUdang"
+  },
+  {
+    "index": 87,
+    "soal": "Tahu Gimbal adalah tahu yang disajikan dengan gimbal...",
+    "jawaban": "Udang"
+  },
+  {
+    "index": 88,
+    "soal": "Lumpia Semarang biasanya berisi rebung dan...",
+    "jawaban": "Udang"
+  },
+  {
+    "index": 89,
+    "soal": "Bakpia Pathok terkenal karena isiannya yang terbuat dari...",
+    "jawaban": "KacangHijau"
+  },
+  {
+    "index": 90,
+    "soal": "Yangko adalah kue kenyal khas Yogyakarta yang ditaburi dengan tepung...",
+    "jawaban": "Ketan"
+  },
+    {
+    "index": 91,
+    "soal": "Geplak adalah makanan manis khas Bantul yang terbuat dari...",
+    "jawaban": "Kelapa"
+  },
+  {
+    "index": 92,
+    "soal": "Kipo adalah makanan khas Kotagede yang terbuat dari...",
+    "jawaban": "TepungKetan"
+  },
+  {
+    "index": 93,
+    "soal": "Adrem adalah kue tradisional khas Jawa yang berbentuk...",
+    "jawaban": "Cincin"
+  },
+  {
+    "index": 94,
+    "soal": "Mochi biasanya diisi dengan...",
+    "jawaban": "Kacang"
+  },
+  {
+    "index": 95,
+    "soal": "Serundeng biasanya terbuat dari kelapa parut yang...",
+    "jawaban": "Digoreng"
+  },
+  {
+    "index": 96,
+    "soal": "Abon biasanya terbuat dari suwiran...",
+    "jawaban": "Daging"
+  },
+  {
+    "index": 97,
+    "soal": "Emping Melinjo terbuat dari buah...",
+    "jawaban": "Melinjo"
+  },
+  {
+    "index": 98,
+    "soal": "Krupuk Udang terbuat dari...",
+    "jawaban": "Udang"
+  },
+  {
+    "index": 99,
+    "soal": "Rempeyek biasanya ditaburi dengan...",
+    "jawaban": "KacangTanah"
+  }
+]
