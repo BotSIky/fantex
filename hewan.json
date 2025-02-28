@@ -1,0 +1,362 @@
+[
+  {
+    "index": 0,
+    "soal": "hewan apa ini 🐶",
+    "jawaban": "anjing"
+  },
+  {
+    "index": 1,
+    "soal": "hewan apa ini 🐱",
+    "jawaban": "kucing"
+  },
+  {
+    "index": 2,
+    "soal": "hewan apa ini 🐭",
+    "jawaban": "tikus"
+  },
+  {
+    "index": 3,
+    "soal": "hewan apa ini 🐹",
+    "jawaban": "hamster"
+  },
+  {
+    "index": 4,
+    "soal": "hewan apa ini 🐰",
+    "jawaban": "kelinci"
+  },
+  {
+    "index": 5,
+    "soal": "hewan apa ini 🦊",
+    "jawaban": "rubah"
+  },
+  {
+    "index": 6,
+    "soal": "hewan apa ini 🐻",
+    "jawaban": "beruang"
+  },
+  {
+    "index": 7,
+    "soal": "hewan apa ini 🐼",
+    "jawaban": "panda"
+  },
+  {
+    "index": 8,
+    "soal": "hewan apa ini 🐨",
+    "jawaban": "koala"
+  },
+  {
+    "index": 9,
+    "soal": "hewan apa ini 🐯",
+    "jawaban": "harimau"
+  },
+  {
+    "index": 10,
+    "soal": "hewan apa ini 🦁",
+    "jawaban": "singa"
+  },
+  {
+    "index": 11,
+    "soal": "hewan apa ini 🐮",
+    "jawaban": "sapi"
+  },
+  {
+    "index": 12,
+    "soal": "hewan apa ini 🐷",
+    "jawaban": "babi"
+  },
+  {
+    "index": 13,
+    "soal": "hewan apa ini 🐽",
+    "jawaban": "hidung-babi"
+  },
+  {
+    "index": 14,
+    "soal": "hewan apa ini 🐸",
+    "jawaban": "katak"
+  },
+  {
+    "index": 15,
+    "soal": "hewan apa ini 🐵",
+    "jawaban": "monyet"
+  },
+  {
+    "index": 16,
+    "soal": "hewan apa ini 🦍",
+    "jawaban": "gorilla"
+  },
+  {
+    "index": 17,
+    "soal": "hewan apa ini 🦧",
+    "jawaban": "orangutan"
+  },
+  {
+    "index": 18,
+    "soal": "hewan apa ini 🦌",
+    "jawaban": "rusa"
+  },
+  {
+    "index": 19,
+    "soal": "hewan apa ini 🦏",
+    "jawaban": "badak"
+  },
+  {
+    "index": 20,
+    "soal": "hewan apa ini 🦛",
+    "jawaban": "kuda-nil"
+  },
+  {
+    "index": 21,
+    "soal": "hewan apa ini 🦒",
+    "jawaban": "jerapah"
+  },
+  {
+    "index": 22,
+    "soal": "hewan apa ini 🐫",
+    "jawaban": "unta"
+  },
+  {
+    "index": 23,
+    "soal": "hewan apa ini 🐪",
+    "jawaban": "unta-bungkuk-satu"
+  },
+  {
+    "index": 24,
+    "soal": "hewan apa ini 🐘",
+    "jawaban": "gajah"
+  },
+  {
+    "index": 25,
+    "soal": "hewan apa ini 🦣",
+    "jawaban": "mammoth"
+  },
+  {
+    "index": 26,
+    "soal": "hewan apa ini 🦇",
+    "jawaban": "kelelawar"
+  },
+  {
+    "index": 27,
+    "soal": "hewan apa ini 🐺",
+    "jawaban": "serigala"
+  },
+  {
+    "index": 28,
+    "soal": "hewan apa ini 🦝",
+    "jawaban": "rakun"
+  },
+  {
+    "index": 29,
+    "soal": "hewan apa ini 🦨",
+    "jawaban": "sigung"
+  },
+  {
+    "index": 30,
+    "soal": "hewan apa ini 🦡",
+    "jawaban": "musang"
+  },
+  {
+    "index": 31,
+    "soal": "hewan apa ini 🐀",
+    "jawaban": "tikus hitam"
+  },
+  {
+    "index": 32,
+    "soal": "hewan apa ini 🐁",
+    "jawaban": "tikus putih"
+  },
+  {
+    "index": 33,
+    "soal": "hewan apa ini 🐿️",
+    "jawaban": "tupai"
+  },
+  {
+    "index": 34,
+    "soal": "hewan apa ini 🦫",
+    "jawaban": "berang-berang"
+  },
+  {
+    "index": 35,
+    "soal": "hewan apa ini 🦦",
+    "jawaban": "berang-berang"
+  },
+  {
+    "index": 36,
+    "soal": "hewan apa ini 🐔",
+    "jawaban": "ayam"
+  },
+  {
+    "index": 37,
+    "soal": "hewan apa ini 🐓",
+    "jawaban": "ayam-jago"
+  },
+  {
+    "index": 38,
+    "soal": "hewan apa ini 🐣",
+    "jawaban": "anak-ayam-menetas"
+  },
+  {
+    "index": 39,
+    "soal": "hewan apa ini 🐤",
+    "jawaban": "anak-ayam"
+  },
+  {
+    "index": 40,
+    "soal": "hewan apa ini 🐥",
+    "jawaban": "bayi-ayam"
+  },
+  {
+    "index": 41,
+    "soal": "hewan apa ini 🦆",
+    "jawaban": "bebek"
+  },
+  {
+    "index": 42,
+    "soal": "hewan apa ini 🦢",
+    "jawaban": "angsa"
+  },
+  {
+    "index": 43,
+    "soal": "hewan apa ini 🦉",
+    "jawaban": "burung-hantu"
+  },
+  {
+    "index": 44,
+    "soal": "hewan apa ini 🦩",
+    "jawaban": "flamingo"
+  },
+  {
+    "index": 45,
+    "soal": "hewan apa ini 🦚",
+    "jawaban": "merak"
+  },
+  {
+    "index": 46,
+    "soal": "hewan apa ini 🦜",
+    "jawaban": "burung-beo"
+  },
+  {
+    "index": 47,
+    "soal": "hewan apa ini 🐧",
+    "jawaban": "penguin"
+  },
+  {
+    "index": 48,
+    "soal": "hewan apa ini 🐦",
+    "jawaban": "burung"
+  },
+  {
+    "index": 49,
+    "soal": "hewan apa ini 🦤",
+    "jawaban": "burung-dodo"
+  },
+  {
+    "index": 50,
+    "soal": "hewan apa ini 🐠",
+    "jawaban": "ikan"
+  },
+    {
+    "index": 51,
+    "soal": "hewan apa ini 🐟",
+    "jawaban": "ikan"
+  },
+  {
+    "index": 52,
+    "soal": "hewan apa ini 🐡",
+    "jawaban": "ikan buntal"
+  },
+  {
+    "index": 53,
+    "soal": "hewan apa ini 🐬",
+    "jawaban": "lumba-lumba"
+  },
+  {
+    "index": 54,
+    "soal": "hewan apa ini 🐋",
+    "jawaban": "paus"
+  },
+  {
+    "index": 55,
+    "soal": "hewan apa ini 🦈",
+    "jawaban": "hiu"
+  },
+  {
+    "index": 56,
+    "soal": "hewan apa ini 🦭",
+    "jawaban": "anjing-laut"
+  },
+  {
+    "index": 57,
+    "soal": "hewan apa ini 🐙",
+    "jawaban": "gurita"
+  },
+  {
+    "index": 58,
+    "soal": "hewan apa ini 🦑",
+    "jawaban": "cumi-cumi"
+  },
+  {
+    "index": 59,
+    "soal": "hewan apa ini 🐝",
+    "jawaban": "lebah"
+  },
+  {
+    "index": 60,
+    "soal": "hewan apa ini 🐛",
+    "jawaban": "ulat"
+  },
+  {
+    "index": 61,
+    "soal": "hewan apa ini 🦋",
+    "jawaban": "kupu-kupu"
+  },
+  {
+    "index": 62,
+    "soal": "hewan apa ini 🐌",
+    "jawaban": "siput"
+  },
+  {
+    "index": 63,
+    "soal": "hewan apa ini 🐞",
+    "jawaban": "kepik"
+  },
+  {
+    "index": 64,
+    "soal": "hewan apa ini 🐜",
+    "jawaban": "semut"
+  },
+  {
+    "index": 65,
+    "soal": "hewan apa ini 🦟",
+    "jawaban": "nyamuk"
+  },
+  {
+    "index": 66,
+    "soal": "hewan apa ini 🦠",
+    "jawaban": "virus"
+  },
+  {
+    "index": 67,
+    "soal": "hewan apa ini 🐢",
+    "jawaban": "kura-kura"
+  },
+  {
+    "index": 68,
+    "soal": "hewan apa ini 🦎",
+    "jawaban": "kadal"
+  },
+  {
+    "index": 69,
+    "soal": "hewan apa ini 🐍",
+    "jawaban": "ular"
+  },
+  {
+    "index": 70,
+    "soal": "hewan apa ini 🦖",
+    "jawaban": "t-rex"
+  },
+  {
+    "index": 71,
+    "soal": "hewan apa ini 🦕",
+    "jawaban": "brontosaurus"
+  }
+]
